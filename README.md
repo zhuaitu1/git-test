@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 "#  Git ²âÊÔ" 
 # èœé¸Ÿæ•™ç¨‹ Git æµ‹è¯•
+let me study git
 =======
 # git-test
 >>>>>>> f58609953aab7057cbd7554f3c61c7a6396f4407
